@@ -1,2 +1,3 @@
 # hello-world
-Just another hw repo
+
+About to hack on some code.  First commit!
